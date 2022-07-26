@@ -22,7 +22,7 @@ If you're using Rails 3 or higher, or Rails 2.3 in the [recommended configuratio
 
 
 ### Install the configuration file
-After installing the agent, you will need to install the `newrelic.yml` configuration file, and name your app. 
+After installing the agent, you will need to install the `newrelic.yml` configuration file and name your app. 
 
 Generate a `newrelic.yml` file with the following command:
 
