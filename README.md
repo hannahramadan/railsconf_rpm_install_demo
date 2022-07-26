@@ -5,7 +5,7 @@ This is a simple Rails app for the purpose of demonstrating how to install the N
 ## Install Instructions
 
 ### Create a New Relic account
-Create a free [New Relic account](https://newrelic.com/signup). Or [sign in](https://one.newrelic.com/)
+Create a free [New Relic account](https://newrelic.com/signup). Or [sign in](https://one.newrelic.com/).
 
 
 ### Install the gem
