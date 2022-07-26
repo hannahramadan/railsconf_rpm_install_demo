@@ -30,7 +30,7 @@ Generate a `newrelic.yml` file with the following command:
 newrelic install --license_key="YOUR_KEY" "My application"
 ```
 
-You can find your New Relic License Key under Account -> API Keys.
+You can find your New Relic License Key under your Account -> API Keys.
 
 
 ## Uninstall Instructions
