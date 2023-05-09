@@ -19,4 +19,4 @@ jobs:
       if: github.event.action == 'opened'
       with:
         project: 'https://github.com/users/hannahramadan/projects/1'
-        column_name: 'Triage'
+        column_name: 'Todo'
